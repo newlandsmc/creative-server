@@ -1,0 +1,66 @@
+animations:
+#  tablist:
+#    # Text changing interval in milliseconds (ticks).
+#    interval: 60
+#
+#    # Display the text randomly?
+#    random: true
+#
+#    # The list of texts that will appear
+#    texts:
+#    - "&b&lTabList"
+#    - "&2&lTabList"
+#    - "&4&lTabList"
+#    - "&9&lTabList"
+#    - "&a&lTabList"
+#    - "&a&lTabList"
+#    - "&5&lTabList"
+#    - "&b&lTabList"
+#    - "&2&lTabList"
+#    - "&4&lTabList"
+#    - "&9&lTabList"
+#    - "&a&lTabList"
+#    - "&a&lTabList"
+#    - "&5&lTabList"
+#    - "&b&lTabList"
+#    - "&2&lTabList"
+#    - "&4&lTabList"
+#    - "&9&lTabList"
+#    - "&a&lTabList"
+#    - "&a&lTabList"
+#    - "&5&lTabList"
+#    - "&b&lTabList"
+
+  title:
+    interval: 120
+    texts:
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &aSemi&2Vanilla \n &7Creative "
+    - " &fS&aemi&2Vanilla \n &7Creative "
+    - " &fSe&ami&2Vanilla \n &fC&7reative "
+    - " &fSem&ai&2Vanilla \n &fCr&7eative "
+    - " &aS&femi&2Vanilla \n &fCre&7ative "
+    - " &aSe&fmiV&2anilla \n &7C&frea&7tive "
+    - " &aSem&fiVa&2nilla \n &7Cr&feat&7ive "
+    - " &aSemi&fVan&2illa \n &7Cre&fval&7ve "
+    - " &aSemi&2V&fani&2lla \n &7Crea&ftiv&7e "
+    - " &aSemi&2Va&fnil&2la \n &7Creat&five "
+    - " &aSemi&2Van&fill&2a \n &7Creati&fve "
+    - " &aSemi&2Vani&flla \n &7Creativ&fe "
+    - " &aSemi&2Vanil&fla \n &7Creative "
+    - " &aSemi&2Vanill&fa \n &7Creative "

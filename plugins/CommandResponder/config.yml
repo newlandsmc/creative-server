@@ -1,0 +1,21 @@
+spawn:
+  enabled: true
+  message: "<red>There is no spawn on this server! Looking for the lobby? Do /server lobby."
+lobby:
+  enabled: true
+  message: "<red>Looking for the lobby? Do /server lobby."
+back:
+  enabled: true
+  message: "<red>There is no /back on this server!"
+unstuck:
+  enabled: true
+  message: ""
+sethome:
+  enabled: true
+  message: "<red>To set a home, create or join a plot! Use /plot to get started."
+home:
+  enabled: true
+  message: "<red>To set a home, create or join a plot! Use /plot to get started."
+homes:
+  enabled: true
+  message: "<red>To set a home, create or join a plot! Use /plot to get started."

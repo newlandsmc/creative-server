@@ -1,0 +1,75 @@
+# The amount of time used for the interval
+interval: 60
+# The unit of time used for the interval
+#  Can be SECONDS, MINUTES, or HOURS
+interval-time-unit: 'MINUTES'
+random-message-order: true
+gradient:
+  color-1: 'dark_green'
+  color-2: 'green'
+  color-3: 'dark_green'
+  speed: 0.1
+returning-player:
+  title-settings:
+    enabled: true
+    duration-seconds: 4
+    fade-in: 1000
+    fade-out: 1000
+    title: '<animate>Creative</animate>'
+    subtitle: 'The Adventure Continues'
+    bedrock:
+      enable: true
+      duration-seconds: 4
+      fade-in: 1000
+      fade-out: 1000
+      title: 'Creative'
+      subtitle: 'The Adventure Continues'
+  join-sounds:
+    enabled: false
+    name: 'ui.toast.challenge_complete'
+    pitch: 1
+    source: master
+    volume: 0.8
+new-player:
+  title-settings:
+    enabled: true
+    duration-seconds: 4
+    fade-in: 1000
+    fade-out: 1000
+    title: '<animate>Creative</animate>'
+    subtitle: 'The Adventure Continues'
+    bedrock:
+      enable: true
+      duration-seconds: 4
+      fade-in: 1000
+      fade-out: 1000
+      title: 'Creative'
+      subtitle: 'The Adventure Continues'
+  join-sounds:
+    enabled: false
+    name: 'UI_TOAST_CHALLENGE_COMPLETE'
+    pitch: 1
+    source: master
+    volume: 0.8
+messages:
+  0:
+    - '<gradient:dark_green:green:dark_green><strikethrough>                                                                 <reset>'
+    - ''
+    - 'Vote every day to support the server and get'
+    - 'rewarded for it! <click:open_url:https://semivanilla.com/vote><gradient:dark_green:green>https://semivanilla.com/vote</gradient></click>'
+    - ''
+    - '<gradient:dark_green:green:dark_green><strikethrough>                                                                 <reset>'
+  1:
+    - '<gradient:dark_green:green:dark_green><strikethrough>                                                                 <reset>'
+    - ''
+    - 'Enjoying the server? Please consider donating'
+    - 'at <click:open_url:https://store.semivanilla.com><gradient:green:dark_green>https://store.semivanilla.com</gradient></click>!'
+    - ''
+    - '<gradient:dark_green:green:dark_green><strikethrough>                                                                 <reset>'
+  2:
+    - '<gradient:dark_green:green:dark_green><strikethrough>                                                                 <reset>'
+    - ''
+    - 'Join the community! Find us on Discord'
+    - 'at <click:open_url:https://discord.gg/3WzZ3x6wGp><gradient:green:dark_green>https://discord.gg/3WzZ3x6wGp</gradient></click>!'
+    - ''
+    - '<gradient:dark_green:green:dark_green><strikethrough>                                                                 <reset>'

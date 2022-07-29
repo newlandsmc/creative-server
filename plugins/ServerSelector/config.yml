@@ -1,0 +1,45 @@
+aliases:
+  - 'server'
+  - 'asthonia'
+  - 'khavalon'
+  - 'lobby'
+
+menu:
+  name: 'Server Selector' # MiniMessage does not work on this unfortunately
+  size: 27
+  fill:
+    enabled: true
+    material: 'BLACK_STAINED_GLASS_PANE'
+  servers:
+    0:
+      slot: 10
+      material: 'LIGHT_BLUE_CONCRETE'
+      name: '<aqua>Lobby'
+      proxy-server-name: 'lobby'
+      lore:
+        - ''
+        - '<gray>Click to join the Lobby'
+    1:
+      slot: 12
+      material: 'MAGENTA_CONCRETE'
+      name: '<light_purple>Asthonia'
+      proxy-server-name: 'asthonia'
+      lore:
+        - ''
+        - '<gray>Click to join Asthonia'
+    2:
+      slot: 14
+      material: 'RED_CONCRETE'
+      name: '<gold>Khavalon'
+      proxy-server-name: 'khavalon'
+      lore:
+        - ''
+        - '<gray>Click to join Khavalon'
+    3:
+      slot: 16
+      material: 'GREEN_CONCRETE'
+      name: '<green>Creative'
+      proxy-server-name: 'creative'
+      lore:
+        - ''
+        - '<gray>Click to join Creative'

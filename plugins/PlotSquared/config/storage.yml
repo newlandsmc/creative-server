@@ -1,0 +1,21 @@
+prefix: ''
+
+# SQLite section
+sqlite:
+  # Should SQLite be used?
+  use: false
+  # The file to use
+  db: "storage"
+
+# MySQL section
+mysql:
+  # Should MySQL be used?
+  use: true
+  host: "localhost"
+  port: "3306"
+  user: "plotsquared"
+  password: "Cy34cS4mWpdJ62X8"
+  database: "creative_plotsquared"
+  # Set additional properties: https://goo.gl/wngtN8
+  properties: 
+  - "useSSL=false"
