@@ -44,6 +44,7 @@
 /plugins/Votifier/rsa/
 /plugins/squaremap/web/tiles-bak/
 /plugins/Vulcan/stats.yml
+/plugins/PlotSquared/backups/
 
 # Ignore worlds
 !worlds/
