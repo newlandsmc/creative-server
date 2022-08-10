@@ -17,7 +17,7 @@ settings:
         BlockExplodeEvent: false
         EntityBlockFormEvent: false
         PlayerJoinEvent: false
-        ChunkLoadEvent: false
+        ChunkLoadEvent: true
         BlockPistonExtendEvent: false
         PlayerQuitEvent: false
         PlayerMoveEvent: false

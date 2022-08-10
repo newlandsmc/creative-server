@@ -7,7 +7,7 @@ worlds:
       sign_material: OAK_WALL_SIGN
       size: 42
       filling: minecraft:stone
-      auto_merge: true
+      auto_merge: false
       bedrock: true
       create_signs: true
       floor: minecraft:grass_block
@@ -20,7 +20,12 @@ worlds:
     misc_spawn_unowned: false
     road:
       block: minecraft:quartz_block
-      flags: {}
+      flags:
+        vehicle-cap: '0'
+        entity-cap: '0'
+        misc-cap: '0'
+        animal-cap: '0'
+        mob-cap: '0'
       height: 62
       width: 7
     home:
@@ -55,9 +60,10 @@ worlds:
     natural_mob_spawning: false
     mob_spawner_spawning: false
     flags:
-      use: '#beds,#buttons,#doors,#fence_gates,#pressure_plates,#trapdoors,lever,tripwire'
+      use: '#beds,#buttons,#pressure_plates,lever,tripwire'
       vehicle-use: 'true'
       vehicle-cap: '100'
       entity-cap: '100'
+      misc-cap: '100'
       animal-cap: '0'
       mob-cap: '0'

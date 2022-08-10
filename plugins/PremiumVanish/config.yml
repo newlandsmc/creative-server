@@ -180,8 +180,8 @@ SurvivalFriendlyFeatures:
     # Available gamemodes: SURVIVAL, ADVENTURE, CREATIVE, SPECTATOR, KEEP
     # KEEP won't change the gamemode in any way
     ChangeToOnReappear:
-      Default: SURVIVAL
-      AnotherExampleWorld2: SURVIVAL
+      Default: CREATIVE
+      AnotherExampleWorld2: CREATIVE
     # Should PV update the gamemode 1 tick after a player joins/changes their world?
     # The new gamemode will depend on the player's new world, as defined above
     # Helpful if you want to force players to be in a gamemode in a specific world

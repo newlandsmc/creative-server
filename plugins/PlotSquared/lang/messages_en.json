@@ -1,7 +1,7 @@
 {
   "confirm.expired_confirm": "<prefix><red>Confirmation has expired, please run the command again!</red>",
   "confirm.failed_confirm": "<prefix><red>You have no pending actions to confirm!</red>",
-  "confirm.requires_confirm": "<prefix><gray>Are you sure you wish to execute: </gray><gold><command></gold><gray>?</gray>\n<red>This cannot be undone! If this is a plot delete, make sure you unlink your plots first or you will delete ALL linked plots! If you are sure: </red><gray><value></gray>\n<gray>The request times out in <red><timeout></red><gray> seconds. ",
+  "confirm.requires_confirm": "<prefix><gray>Are you sure you wish to execute: </gray><gold><command></gold><gray>?</gray>\n<red>This cannot be undone! If this is a plot delete, this will delete ALL merged plots! If you are sure: </red><gray><value></gray>\n<gray>The request times out in <red><timeout></red><gray> seconds. ",
   "move.move_success": "<prefix><dark_aqua>Successfully moved the plot</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
   "move.move_merged": "<prefix><red>Merged plots may not be moved. Please unmerge the plot before performing the move.</red>",
   "move.copy_success": "<prefix><dark_aqua>Successfully copied plots</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
@@ -225,7 +225,7 @@
   "commandconfig.subcommand_set_options_header_only": "<prefix><gray>Possible Values: ",
   "commandconfig.command_syntax": "<prefix><gold>Usage: </gold><gray><value></gray>",
   "commandconfig.command_syntax_extended": "<prefix><gold>Usage: </gold><gray><value1> <value2></gray>",
-  "commandconfig.flag_tutorial_usage": "<prefix><red>The plot flag </red><gold><flag></gold><red> is not set preventing you from performing this action.</red>",
+  "commandconfig.flag_tutorial_usage": "",
   "invalid.component_illegal_block": "<prefix><red>You are not allowed to generate a component containing the block <gray><value></gray></red>",
   "invalid.not_valid_block": "<prefix><red><value></red>",
   "invalid.not_allowed_block": "<prefix><red>That block is not allowed: <gray><value></gray></red>",

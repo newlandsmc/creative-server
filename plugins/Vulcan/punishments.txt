@@ -86,3 +86,47 @@ Potion Effects: [DARKNESS:180t-x0]
 ---------------------------------------------------------------------------
 
 
+--------------[ Wolftifact was punished for Fast Place (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -212.60558295856643
+ - Y: 65.53826868595387
+ - Z: 25.427130206896177
+
+Information:
+ - UUID: 26b94831-f73c-403b-bf1a-caacd828d0b8
+ - Keep Alive Ping: 95
+ - Transaction Ping: 103
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: CREATIVE
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19
+ - Last Damage: 1681.3 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 33626
+ - Since Riptide Ticks: 33144
+ - Flying Delay: 49
+ - Since Velocity Ticks: 33626
+ - Since Firework Ticks: 33144
+ - Ticks Existed: 33526
+ - Since Vehicle Ticks: 33044
+ - Joined: 2079 seconds ago
+
+All Violations:
+ - Fast Place (Type A) [VL: 5] (Placing blocks too quickly.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

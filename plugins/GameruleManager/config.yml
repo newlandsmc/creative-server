@@ -12,3 +12,4 @@ world-settings:
       showDeathMessages: false
       playersSleepingPercentage: 33
       doDaylightCycle: false
+      doWeatherCycle: false
