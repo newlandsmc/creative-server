@@ -4,10 +4,6 @@ rconHost='localhost'
 rconPort='25579'
 rconPass='39GL6kg2Dtpy5km7NxAAiPs55RY5nG34'
 
-/var/minecraft/mcrcon/mcrcon -H $rconHost -P $rconPort -p $rconPass 'broadcast &cCreative maintenance in 5 minutes.'
-
-sleep 240
-
 /var/minecraft/mcrcon/mcrcon -H $rconHost -P $rconPort -p $rconPass 'broadcast &cCreative maintenance in 1 minute.'
 
 sleep 30
@@ -36,4 +32,4 @@ sleep 1
 
 sleep 1
 
-sudo systemctl stop minecraft
+sudo systemctl stop creative

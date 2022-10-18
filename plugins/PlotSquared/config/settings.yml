@@ -116,6 +116,8 @@ enabled-components:
   - "ap"
   # Whether PlotSquared should hook into MvDWPlaceholderAPI or not
   use-mvdwapi: true
+  # Prevent cross plot beacon effects
+  disable-beacon-effect-overflow: true
 
 # This is an auto clearing task called `task1`
 auto-clear:

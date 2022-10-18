@@ -16,3 +16,9 @@ home:
 homes:
   enabled: true
   message: "<red>To set a home, create or join a plot! Use /plot to get started."
+crates:
+  enabled: true
+  message: "<red>This command must be ran on Khavalon or Asthonia!"
+spoils:
+  enabled: true
+  message: "<red>This command must be ran on Khavalon or Asthonia!"
