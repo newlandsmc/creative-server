@@ -74,6 +74,8 @@ enabled-components:
   kill-road-mobs: true
   # Also kill any road mobs that are being ridden, or are leashed
   kill-owned-road-mobs: true
+  # Also kill any road mobs that are named
+  kill-named-road-mobs: false
   # Kill items on roads (Stick, Paper, etc.)
   kill-road-items: true
   # Kill vehicles on roads (Boat, Minecart, etc.)
