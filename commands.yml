@@ -19,3 +19,5 @@ aliases:
   - helpplugin:info $1-
   socialspy:
   - bettercommandspy:commandspy on
+  time:
+  - essentials:ptime $1- $2-

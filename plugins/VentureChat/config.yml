@@ -253,7 +253,7 @@ channels:
     alias: g
     permissions: None
     speak_permissions: None
-    channel_prefix: '&a■'
+    channel_prefix: '&b■'
     format: '{venturechat_channel_prefix} {luckperms_prefix}&7{nickname}&f:'
   Staff:
     color: yellow

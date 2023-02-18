@@ -1,3 +1,7 @@
+# 
+#      animal-cap: '10'
+#      mob-cap: '10'
+
 configuration_version: v5
 worlds:
   world:
@@ -54,16 +58,14 @@ worlds:
       border: false
     event:
       spawn:
-        egg: false
-        breeding: false
+        egg: true
+        breeding: true
         custom: true
     natural_mob_spawning: false
-    mob_spawner_spawning: false
+    mob_spawner_spawning: true
     flags:
       use: '#beds,#buttons,#pressure_plates,lever,tripwire'
       vehicle-use: 'true'
       vehicle-cap: '100'
       entity-cap: '100'
       misc-cap: '100'
-      animal-cap: '0'
-      mob-cap: '0'

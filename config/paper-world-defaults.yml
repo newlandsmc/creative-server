@@ -127,7 +127,7 @@ entities:
   spawning:
     all-chunks-are-slime-chunks: false
     alt-item-despawn-rate:
-      enabled: true
+      enabled: false
       items:
         andesite: 600
         bone: 600

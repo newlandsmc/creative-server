@@ -130,3 +130,48 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ TOF_Tus was punished for Fast Place (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 445.71195411265523
+ - Y: 63.0
+ - Z: 4.79067578138544
+
+Information:
+ - UUID: b61fb81b-4474-476d-be04-8efed0184113
+ - Keep Alive Ping: 141
+ - Transaction Ping: 159
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: CREATIVE
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.3
+ - Last Damage: 102.45 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 2049
+ - Since Riptide Ticks: 1879
+ - Flying Delay: 97
+ - Since Velocity Ticks: 2049
+ - Since Firework Ticks: 1879
+ - Ticks Existed: 1949
+ - Since Vehicle Ticks: 1779
+ - Since Liquid Ticks: 1779
+ - Joined: 177 seconds ago
+
+All Violations:
+ - Fast Place (Type B) [VL: 5] (Sending too many BlockPlace packets.)
+
+Blocks Nearby: [STONE, STONE, STONE, SANDSTONE_SLAB, SANDSTONE_SLAB, SANDSTONE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, STONE, GRASS_BLOCK, GRASS_BLOCK, SANDSTONE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, GRASS_BLOCK, GRASS_BLOCK, SANDSTONE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

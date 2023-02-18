@@ -1,0 +1,6 @@
+commands:
+  delay: 0 # Delay in ticks
+  join:
+    - ptime reset %player%
+  leave:
+    - ptime reset %player%

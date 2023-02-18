@@ -47,15 +47,15 @@ world-settings:
     merge-radius:
       item: 1.5
       exp: 2.0
-    item-despawn-rate: 10
+    item-despawn-rate: 100
     wither-spawn-sound-radius: 0
     hanging-tick-frequency: 100
     view-distance: default
     simulation-distance: default
     enable-zombie-pigmen-portal-spawns: true
     end-portal-sound-radius: 0
-    arrow-despawn-rate: 10
-    trident-despawn-rate: 10
+    arrow-despawn-rate: 100
+    trident-despawn-rate: 100
     mob-spawn-range: 8
     zombie-aggressive-towards-villager: true
     growth:
