@@ -143,7 +143,7 @@ jsonformatting:
         click_text: '/msg {player_name}'
       luckperms_prefix:
         hover_text:
-        - '..Donate at &bstore.semivanilla.com'
+        - '..Donate at &bstore.newlandsmc.com'
         click_action: 'run_command'
         click_text: '/help store'
     
