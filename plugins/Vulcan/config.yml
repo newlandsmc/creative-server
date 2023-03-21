@@ -84,7 +84,7 @@ verbose:
   toggled-off-message: '%prefix% Vulcan verbose disabled'
 log-file:
   # Whether or not the log file is enabled
-  enabled: true
+  enabled: false
   # The message that is logged when a player fails a check.
   # Valid placeholders are %player% (player name), %max-vl% (max violations), %check% (name of check), %description% (check description),
   # %version% (player's client version), %dev% (* for whether or not the check is experimental), %vl% (violation level),
@@ -455,7 +455,7 @@ settings:
   inject-early: true
   max-velocity-ticks: 50
   max-logs-file-size: 7500
-  server-name: Creative
+  server-name: Survival
   async-alerts: true
   enable-api: false
   update-checker: false
@@ -532,7 +532,7 @@ discord-webhook:
     color-g: 140
     color-b: 3
     # Username of the webhook
-    username: Vulcan Creative
+    username: Vulcan Survival
     # Title of the webhook
     title: Vulcan Alert
     # Description of the webhook
@@ -555,7 +555,7 @@ discord-webhook:
     color-r: 255
     color-g: 0
     color-b: 0
-    username: Vulcan Creative
+    username: Vulcan Survival
     title: Vulcan Punishment
     description: '**%player%** was punished for %check% (Type %type%) [VL: %vl%]'
     content: ''
@@ -768,8 +768,9 @@ checks:
           enabled: false
           minimum-vl-to-randomly-rotate: 2
           rotate-every: 2
+      # disable to support VR
       i:
-        enabled: true
+        enabled: false
         punishable: true
         discord-alert-interval: 1
         broadcast-punishment: false
@@ -1038,8 +1039,9 @@ checks:
           enabled: false
           minimum-vl-to-randomly-rotate: 2
           rotate-every: 2
+      # disabled to support VR
       w:
-        enabled: true
+        enabled: false
         punishable: true
         discord-alert-interval: 1
         broadcast-punishment: false
@@ -1088,8 +1090,9 @@ checks:
           enabled: false
           minimum-vl-to-randomly-rotate: 2
           rotate-every: 2
+      # disabled to support VR
       y:
-        enabled: true
+        enabled: false
         punishable: true
         discord-alert-interval: 1
         broadcast-punishment: false
@@ -2214,8 +2217,9 @@ checks:
           multiple: 0.25
           decay: 0.15
     step:
+      # disabled to support VR
       a:
-        enabled: true
+        enabled: false
         punishable: true
         setback: false
         discord-alert-interval: 1
@@ -3519,8 +3523,9 @@ checks:
           max: 3
           multiple: 0.5
           decay: 0.4
+      # disabled to support VR
       m:
-        enabled: true
+        enabled: false
         punishable: true
         discord-alert-interval: 1
         broadcast-punishment: false

@@ -28,7 +28,7 @@ settings:
     render-progress-logging:
         enabled: true
         interval-seconds: 1
-    update-checker: true
+    update-checker: false
 world-settings:
     default:
         map:

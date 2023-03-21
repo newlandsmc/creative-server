@@ -17,7 +17,13 @@ aliases:
   - version $1-
   info:
   - helpplugin:info $1-
-  socialspy:
-  - bettercommandspy:commandspy on
   time:
   - essentials:ptime $1- $2-
+  lobby:
+  - serverselector:server lobby
+  spawn:
+  - serverselector:server lobby
+  creative:
+  - serverselector:server creative
+  survival:
+  - serverselector:server survival

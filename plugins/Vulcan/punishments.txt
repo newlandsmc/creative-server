@@ -1,128 +1,86 @@
---------------[ Clalvaro was punished for Motion (Type A) ]--------------
+--------------[ Davidfufi was punished for Kill Aura (Type A) ]--------------
 
 Location:
  - World: world
- - X: 9474.699999988079
- - Y: 70.366109129808
- - Z: -3025.32124594943
+ - X: 219.49328805156634
+ - Y: 65.24259445932273
+ - Z: 339.4947181244733
 
 Information:
- - UUID: 61e7e78b-6035-4b22-8d7c-47d05630e860
- - Keep Alive Ping: 32
- - Transaction Ping: 119
- - Server TPS: 20
- - Sensitivity: 99
- - Gamemode: SURVIVAL
- - Client Brand: Fabric
- - Vehicle: null
- - Version: 1.19
- - Last Damage: 22.75 seconds ago
-
-Total Violations: 15
- - Combat Violations: 0
- - Movement Violations: 15
- - Player Violations: 0
-
-Misc Information:
- - Since Teleport Ticks: 455
- - Since Riptide Ticks: 514
- - Flying Delay: 41
- - Since Velocity Ticks: 455
- - Since Firework Ticks: 514
- - Ticks Existed: 355
- - Since Vehicle Ticks: 414
- - Joined: 19 seconds ago
-
-All Violations:
- - Motion (Type A) [VL: 15] (Repeated vertical motions.)
-
-Blocks Nearby: [SNOW, GRASS_BLOCK, DIRT, AIR, SNOW, GRASS_BLOCK, AIR, AIR, SNOW, AIR, AIR, AIR, SNOW, GRASS_BLOCK, STONE, AIR, SNOW, DIRT, AIR, AIR, GRASS_BLOCK, AIR, AIR, SNOW, GRASS_BLOCK, DIRT, AIR, SNOW, GRASS_BLOCK, STONE, AIR, SNOW, DIRT, AIR, AIR, GRASS_BLOCK]
-Entities Nearby: []
-Potion Effects: []
----------------------------------------------------------------------------
-
-
---------------[ Relaxxxxed was punished for Step (Type B) ]--------------
-
-Location:
- - World: world
- - X: 3922.8301728412957
- - Y: -51.5
- - Z: -2883.6666579527005
-
-Information:
- - UUID: 0ae1a79c-de9d-4329-80b9-29ee0feeb9fd
- - Keep Alive Ping: 108
- - Transaction Ping: 115
- - Server TPS: 20
- - Sensitivity: 79
- - Gamemode: SURVIVAL
- - Client Brand: Vanilla
- - Vehicle: null
- - Version: 1.19
- - Last Damage: 17.8 seconds ago
-
-Total Violations: 15
- - Combat Violations: 0
- - Movement Violations: 15
- - Player Violations: 0
-
-Misc Information:
- - Since Teleport Ticks: 342
- - Since Riptide Ticks: 138149
- - Flying Delay: 48
- - Since Velocity Ticks: 356
- - Since Firework Ticks: 138149
- - Ticks Existed: 160150
- - Since Vehicle Ticks: 94670
- - Joined: 12680 seconds ago
-
-All Violations:
- - Step (Type B) [VL: 15] (Invalid Step motion.)
-
-Blocks Nearby: [SCULK, SCULK, SCULK, AIR, SCULK_SENSOR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SCULK, SCULK, DEEPSLATE, AIR, AIR, SCULK, AIR, AIR, AIR, AIR, AIR, AIR, SCULK, SCULK, DEEPSLATE, SCULK_SENSOR, AIR, SCULK, AIR, AIR, AIR, AIR, AIR, AIR]
-Entities Nearby: []
-Potion Effects: [DARKNESS:180t-x0]
----------------------------------------------------------------------------
-
-
---------------[ Wolftifact was punished for Fast Place (Type A) ]--------------
-
-Location:
- - World: world
- - X: -212.60558295856643
- - Y: 65.53826868595387
- - Z: 25.427130206896177
-
-Information:
- - UUID: 26b94831-f73c-403b-bf1a-caacd828d0b8
- - Keep Alive Ping: 95
- - Transaction Ping: 103
+ - UUID: c244e24b-624e-40be-94e9-99f539a13ebe
+ - Keep Alive Ping: 156
+ - Transaction Ping: 140
  - Server TPS: 20
  - Sensitivity: 99
  - Gamemode: CREATIVE
  - Client Brand: Fabric
  - Vehicle: null
  - Version: 1.19
- - Last Damage: 1681.3 seconds ago
+ - Last Damage: 533.0 seconds ago
 
-Total Violations: 5
- - Combat Violations: 0
+Total Violations: 4
+ - Combat Violations: 4
  - Movement Violations: 0
- - Player Violations: 5
+ - Player Violations: 0
 
 Misc Information:
- - Since Teleport Ticks: 33626
- - Since Riptide Ticks: 33144
+ - Since Teleport Ticks: 10660
+ - Since Riptide Ticks: 9750
  - Flying Delay: 49
- - Since Velocity Ticks: 33626
- - Since Firework Ticks: 33144
- - Ticks Existed: 33526
- - Since Vehicle Ticks: 33044
- - Joined: 2079 seconds ago
+ - Since Velocity Ticks: 10660
+ - Since Firework Ticks: 9750
+ - Ticks Existed: 10560
+ - Since Vehicle Ticks: 9650
+ - Since Liquid Ticks: 9650
+ - Joined: 679 seconds ago
 
 All Violations:
- - Fast Place (Type A) [VL: 5] (Placing blocks too quickly.)
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Henni9000}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Davidfufi was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 223.54618971937802
+ - Y: 66.61128174810489
+ - Z: 317.8287537265633
+
+Information:
+ - UUID: c244e24b-624e-40be-94e9-99f539a13ebe
+ - Keep Alive Ping: 149
+ - Transaction Ping: 142
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: CREATIVE
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19
+ - Last Damage: 223.15 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 4
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 4463
+ - Since Riptide Ticks: 4325
+ - Flying Delay: 47
+ - Since Velocity Ticks: 4463
+ - Since Firework Ticks: 4325
+ - Ticks Existed: 4363
+ - Since Vehicle Ticks: 4225
+ - Since Liquid Ticks: 4225
+ - Joined: 244 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
 
 Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
 Entities Nearby: []
@@ -130,47 +88,93 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
---------------[ TOF_Tus was punished for Fast Place (Type B) ]--------------
+--------------[ Davidfufi was punished for Kill Aura (Type A) ]--------------
 
 Location:
  - World: world
- - X: 445.71195411265523
- - Y: 63.0
- - Z: 4.79067578138544
+ - X: 228.28122687533704
+ - Y: 66.61128174810489
+ - Z: 320.74033773834907
 
 Information:
- - UUID: b61fb81b-4474-476d-be04-8efed0184113
- - Keep Alive Ping: 141
- - Transaction Ping: 159
+ - UUID: c244e24b-624e-40be-94e9-99f539a13ebe
+ - Keep Alive Ping: 63
+ - Transaction Ping: 135
  - Server TPS: 20
  - Sensitivity: 99
  - Gamemode: CREATIVE
- - Client Brand: Vanilla
+ - Client Brand: Fabric
  - Vehicle: null
- - Version: 1.19.3
- - Last Damage: 102.45 seconds ago
+ - Version: 1.19
+ - Last Damage: 15.05 seconds ago
 
-Total Violations: 5
- - Combat Violations: 0
+Total Violations: 4
+ - Combat Violations: 4
  - Movement Violations: 0
- - Player Violations: 5
+ - Player Violations: 0
 
 Misc Information:
- - Since Teleport Ticks: 2049
- - Since Riptide Ticks: 1879
- - Flying Delay: 97
- - Since Velocity Ticks: 2049
- - Since Firework Ticks: 1879
- - Ticks Existed: 1949
- - Since Vehicle Ticks: 1779
- - Since Liquid Ticks: 1779
- - Joined: 177 seconds ago
+ - Since Teleport Ticks: 301
+ - Since Riptide Ticks: 284
+ - Flying Delay: 50
+ - Since Velocity Ticks: 301
+ - Since Firework Ticks: 284
+ - Ticks Existed: 201
+ - Since Vehicle Ticks: 184
+ - Since Liquid Ticks: 184
+ - Joined: 38 seconds ago
 
 All Violations:
- - Fast Place (Type B) [VL: 5] (Sending too many BlockPlace packets.)
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
 
-Blocks Nearby: [STONE, STONE, STONE, SANDSTONE_SLAB, SANDSTONE_SLAB, SANDSTONE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, STONE, GRASS_BLOCK, GRASS_BLOCK, SANDSTONE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE, GRASS_BLOCK, GRASS_BLOCK, SANDSTONE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
 Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Davidfufi was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 237.76939264842193
+ - Y: 68.48078496799495
+ - Z: 312.9369704826722
+
+Information:
+ - UUID: c244e24b-624e-40be-94e9-99f539a13ebe
+ - Keep Alive Ping: 117
+ - Transaction Ping: 138
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: CREATIVE
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19
+ - Last Damage: 35.4 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 5
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 708
+ - Since Riptide Ticks: 763
+ - Flying Delay: 47
+ - Since Velocity Ticks: 708
+ - Since Firework Ticks: 763
+ - Ticks Existed: 608
+ - Since Vehicle Ticks: 663
+ - Since Liquid Ticks: 663
+ - Joined: 86 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+ - Kill Aura (Type C) [VL: 1] (Invalid acceleration.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Henni9000}]
 Potion Effects: []
 ---------------------------------------------------------------------------
 

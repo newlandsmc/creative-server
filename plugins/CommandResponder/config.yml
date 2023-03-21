@@ -1,8 +1,8 @@
 spawn:
-  enabled: true
+  enabled: false
   message: "<red>There is no spawn on this server! Looking for the lobby? Do /server lobby."
 back:
-  enabled: true
+  enabled: false
   message: "<red>There is no /back on this server!"
 unstuck:
   enabled: true
@@ -18,7 +18,7 @@ homes:
   message: "<red>To set a home, create or join a plot! Use /plot to get started."
 crates:
   enabled: true
-  message: "<red>This command must be ran on Khavalon or Asthonia!"
+  message: "<red>This command must be ran in the Survival world!"
 spoils:
   enabled: true
-  message: "<red>This command must be ran on Khavalon or Asthonia!"
+  message: "<red>This command must be ran in the Survival world!"
