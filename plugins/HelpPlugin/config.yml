@@ -23,7 +23,7 @@ commands:
 menu-name: 'Help Menu'
 
 links:
-  store: 'https://newlandsmc.tebex.io'
+  store: 'https://store.newlandsmc.com'
   map: 'https://newlandsmc.com/features/map'
   vote: 'https://newlandsmc.com/vote'
   website: 'https://newlandsmc.com'
@@ -158,7 +158,7 @@ book:
       - ''
       - ''
       - '<click:open_url:%store-link%>   <gradient:#55ff55:#0aa4cf><bold>CLICK TO OPEN</bold></gradient></click>'
-      - '<click:open_url:%store-link%>  <gradient:#55ff55:#0aa4cf>newlandsmc.tebex.io</gradient></click>'
+      - '<click:open_url:%store-link%> <gradient:#55ff55:#0aa4cf>store.newlandsmc.com</gradient></click>'
   vote:
     0:
       - '<click:open_url:%vote-link%>    <gradient:#55ff55:#0aa4cf><bold>New Lands MC</bold></gradient></click>'

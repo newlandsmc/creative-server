@@ -1,5 +1,5 @@
 # The amount of time used for the interval
-interval: 30
+interval: 60
 # The unit of time used for the interval
 #  Can be SECONDS, MINUTES, or HOURS
 interval-time-unit: 'MINUTES'
@@ -65,7 +65,7 @@ messages:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Please consider donating to help us stay open!'
-    - 'Store: <click:open_url:https://newlandsmc.tebex.io><gradient:#55ff55:#008876>https://newlandsmc.tebex.io</gradient></click>'
+    - 'Store: <click:open_url:https://store.newlandsmc.com><gradient:#55ff55:#008876>https://store.newlandsmc.com</gradient></click>'
     - ''
     - '<strikethrough>                                                                 <reset>'
   2:
