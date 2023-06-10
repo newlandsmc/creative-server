@@ -55,12 +55,13 @@ chunks:
   auto-save-interval: default
   delay-chunk-unloads-by: 10s
   entity-per-chunk-save-limit:
-    arrow: -1
-    ender_pearl: -1
-    experience_orb: -1
-    fireball: -1
-    small_fireball: -1
-    snowball: -1
+    arrow: 0
+    ender_pearl: 0
+    experience_orb: 0
+    fireball: 0
+    small_fireball: 0
+    snowball: 0
+    trident: 0
   fixed-chunk-inhabited-time: -1
   max-auto-save-chunks-per-tick: 24
   prevent-moving-into-unloaded-chunks: true
@@ -176,7 +177,7 @@ entities:
     - SleepingZ
     iron-golems-can-spawn-in-air: false
     monster-spawn-max-light-level: -1
-    non-player-arrow-despawn-rate: '10'
+    non-player-arrow-despawn-rate: '5'
     per-player-mob-spawns: true
     scan-for-legacy-ender-dragon: true
     skeleton-horse-thunder-spawn-chance: 0.02

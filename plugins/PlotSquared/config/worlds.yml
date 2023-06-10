@@ -65,7 +65,6 @@ worlds:
     mob_spawner_spawning: true
     flags:
       use: '#beds,#buttons,#pressure_plates,#trapdoors,#doors,lever,tripwire'
-      deny-portal-travel: 'true'
       vehicle-use: 'true'
       vehicle-cap: '100'
       entity-cap: '100'

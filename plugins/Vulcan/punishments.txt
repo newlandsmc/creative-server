@@ -179,3 +179,142 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ TheCrimsonArc24 was punished for Timer (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: -5034.819270194418
+ - Y: 76.50279706861875
+ - Z: 5197.907641551866
+
+Information:
+ - UUID: 33d5ff7f-db74-410f-9724-5faa52b0b3ee
+ - Keep Alive Ping: 4625
+ - Transaction Ping: 453
+ - Server TPS: 20
+ - Sensitivity: 60
+ - Gamemode: CREATIVE
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 1058.2 seconds ago
+
+Total Violations: 2
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 2
+
+Misc Information:
+ - Since Teleport Ticks: 21034
+ - Since Riptide Ticks: 20206
+ - Flying Delay: 44
+ - Since Velocity Ticks: 21164
+ - Since Firework Ticks: 20206
+ - Ticks Existed: 21064
+ - Since Vehicle Ticks: 20106
+ - Since Liquid Ticks: 20106
+ - Queued Transactions: 2
+ - Joined: 1329 seconds ago
+
+All Violations:
+ - Fast Place (Type A) [VL: 2] (Placing blocks too quickly.)
+ - Timer (Type D) [VL: 35] (Increased game speed.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ TheCrimsonArc24 was punished for Timer (Type D) ]--------------
+
+Location:
+ - World: world
+ - X: -5019.921035067816
+ - Y: 43.11650136792814
+ - Z: 5197.141308846461
+
+Information:
+ - UUID: 33d5ff7f-db74-410f-9724-5faa52b0b3ee
+ - Keep Alive Ping: 3613
+ - Transaction Ping: 86
+ - Server TPS: 20
+ - Sensitivity: 60
+ - Gamemode: CREATIVE
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 821.6 seconds ago
+
+Total Violations: 0
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 6326
+ - Since Riptide Ticks: 11653
+ - Flying Delay: 51
+ - Since Velocity Ticks: 16432
+ - Since Firework Ticks: 11653
+ - Ticks Existed: 16332
+ - Since Vehicle Ticks: 11553
+ - Since Liquid Ticks: 4642
+ - Queued Transactions: 1
+ - Joined: 1706 seconds ago
+
+All Violations:
+ - Timer (Type D) [VL: 35] (Increased game speed.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(265t-x0), REGENERATION:(265t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Mr_Koopa was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -409.5433550329845
+ - Y: 64.38807261617168
+ - Z: 320.31978132704893
+
+Information:
+ - UUID: dbfedbc6-b5ed-4c1e-8d41-c808528c5046
+ - Keep Alive Ping: 24
+ - Transaction Ping: 39
+ - Server TPS: 20
+ - Sensitivity: 40
+ - Gamemode: CREATIVE
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 52.0 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 4
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1040
+ - Since Riptide Ticks: 1114
+ - Flying Delay: 50
+ - Since Velocity Ticks: 1040
+ - Since Firework Ticks: 1114
+ - Ticks Existed: 940
+ - Since Vehicle Ticks: 1014
+ - Since Liquid Ticks: 1014
+ - Queued Transactions: 0
+ - Joined: 76 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftMagmaCube, CraftExperienceOrb, CraftMagmaCube]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

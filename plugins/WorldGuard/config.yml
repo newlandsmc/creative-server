@@ -50,41 +50,74 @@ protection:
     disable-xp-orb-drops: false
     use-max-priority-association: false
 gameplay:
-    block-potions: []
-    block-potions-overly-reliably: false
+    block-potions:
+    - ABSORPTION
+    - BAD_OMEN
+    - BLINDNESS
+    - CONDUIT_POWER
+    - CONFUSION
+    - DAMAGE_RESISTANCE
+    - DARKNESS
+    - DOLPHINS_GRACE
+    - FAST_DIGGING
+    - FIRE_RESISTANCE
+    - GLOWING
+    - HARM
+    - HEAL
+    - HEALTH_BOOST
+    - HERO_OF_THE_VILLAGE
+    - HUNGER
+    - INCREASE_DAMAGE
+    - INVISIBILITY
+    - JUMP
+    - LEVITATION
+    - LUCK
+    - NIGHT_VISION
+    - POISON
+    - REGENERATION
+    - SATURATION
+    - SLOW
+    - SLOW_DIGGING
+    - SLOW_FALLING
+    - SPEED
+    - UNLUCK
+    - WATER_BREATHING
+    - WEAKNESS
+    - WITHER
+    block-potions-overly-reliably: true
     disable-conduit-effects: false
 default:
     pumpkin-scuba: false
     disable-health-regain: false
 physics:
-    no-physics-gravel: false
-    no-physics-sand: false
+    no-physics-gravel: true
+    no-physics-sand: true
     vine-like-rope-ladders: false
     allow-portal-anywhere: false
     disable-water-damage-blocks: []
 ignition:
     block-tnt: false
-    block-tnt-block-damage: false
+    block-tnt-block-damage: true
     block-lighter: false
 fire:
-    disable-lava-fire-spread: false
-    disable-all-fire-spread: false
+    disable-lava-fire-spread: true
+    disable-all-fire-spread: true
     disable-fire-spread-blocks: []
     lava-spread-blocks: []
 mobs:
     block-creeper-explosions: false
-    block-creeper-block-damage: false
+    block-creeper-block-damage: true
     block-wither-explosions: false
-    block-wither-block-damage: false
+    block-wither-block-damage: true
     block-wither-skull-explosions: false
-    block-wither-skull-block-damage: false
-    block-enderdragon-block-damage: false
+    block-wither-skull-block-damage: true
+    block-enderdragon-block-damage: true
     block-enderdragon-portal-creation: false
     block-fireball-explosions: false
-    block-fireball-block-damage: false
+    block-fireball-block-damage: true
     anti-wolf-dumbness: true
     allow-tamed-spawns: true
-    disable-enderman-griefing: false
+    disable-enderman-griefing: true
     disable-snowman-trails: false
     block-painting-destroy: false
     block-item-frame-destroy: false
@@ -120,7 +153,7 @@ weather:
     prevent-lightning-strike-blocks: []
     disable-lightning-strike-fire: false
     disable-thunderstorm: false
-    disable-weather: false
+    disable-weather: true
     disable-pig-zombification: false
     disable-villager-witchification: false
     disable-powered-creepers: false
