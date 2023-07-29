@@ -28,7 +28,7 @@ book-name: '<gold>Help Book</gold>'
 book-author: 'HelpPlugin'
 
 links:
-  store: 'https://store.newlandsmc.com'
+  store: 'https://newlandsmc.tebex.io'
   map: 'https://newlandsmc.com/features/map'
   vote: 'https://newlandsmc.com/vote'
   website: 'https://newlandsmc.com'
@@ -156,7 +156,7 @@ book:
       - ''
       - '<click:open_url:%store-link%>Donate to support the server. Thank you!</click>'
       - ''
-      - '<click:open_url:%store-link%><gradient:#55ff55:#0aa4cf><bold>CLICK TO OPEN</bold></gradient>: store.newlandsmc.com</click>'
+      - '<click:open_url:%store-link%><gradient:#55ff55:#0aa4cf><bold>CLICK TO OPEN</bold></gradient>: newlandsmc.tebex.io</click>'
       - '<strikethrough>                                                          </strikethrough>'
   vote:
     0:

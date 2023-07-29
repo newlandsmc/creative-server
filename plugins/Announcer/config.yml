@@ -65,7 +65,7 @@ messages:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Please consider donating to help us stay open!'
-    - 'Store: <click:open_url:https://store.newlandsmc.com><gradient:#55ff55:#008876>https://store.newlandsmc.com</gradient></click>'
+    - 'Store: <click:open_url:https://newlandsmc.tebex.io><gradient:#55ff55:#008876>https://newlandsmc.tebex.io</gradient></click>'
     - ''
     - '<strikethrough>                                                                 <reset>'
   2:

@@ -62,7 +62,13 @@ chunks:
     small_fireball: 0
     snowball: 0
     trident: 0
+    area_effect_cloud: 0
+    experience_bottle: 0
+    firework_rocket: 0
+    potion: 0
+    spectral_arrow: 0
   fixed-chunk-inhabited-time: -1
+  flush-regions-on-save: false
   max-auto-save-chunks-per-tick: 24
   prevent-moving-into-unloaded-chunks: true
 collisions:
@@ -120,6 +126,8 @@ entities:
     zombie-villager-infection-chance: -1.0
     zombies-target-turtle-eggs: true
   entities-target-with-follow-range: false
+  markers:
+    tick: true
   mob-effects:
     immune-to-wither-effect:
       wither: true
@@ -141,28 +149,28 @@ entities:
     creative-arrow-despawn-rate: default
     despawn-ranges:
       ambient:
-        hard: 112
+        hard: 128
         soft: 32
       axolotls:
-        hard: 112
+        hard: 128
         soft: 32
       creature:
-        hard: 112
+        hard: 128
         soft: 32
       misc:
-        hard: 112
+        hard: 128
         soft: 32
       monster:
-        hard: 112
+        hard: 128
         soft: 32
       underground_water_creature:
-        hard: 112
+        hard: 128
         soft: 32
       water_ambient:
         hard: 64
         soft: 32
       water_creature:
-        hard: 112
+        hard: 128
         soft: 32
     disable-mob-spawner-spawn-egg-transformation: false
     duplicate-uuid:
