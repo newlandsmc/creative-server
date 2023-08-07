@@ -7,8 +7,6 @@ commands:
     - helpmenu
     - info
   books:
-    discord:
-      - discord
     map:
       - map
       - maps

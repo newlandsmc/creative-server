@@ -55,18 +55,18 @@ chunks:
   auto-save-interval: default
   delay-chunk-unloads-by: 10s
   entity-per-chunk-save-limit:
+    area_effect_cloud: 0
     arrow: 0
     ender_pearl: 0
+    experience_bottle: 0
     experience_orb: 0
     fireball: 0
-    small_fireball: 0
-    snowball: 0
-    trident: 0
-    area_effect_cloud: 0
-    experience_bottle: 0
     firework_rocket: 0
     potion: 0
+    small_fireball: 0
+    snowball: 0
     spectral_arrow: 0
+    trident: 0
   fixed-chunk-inhabited-time: -1
   flush-regions-on-save: false
   max-auto-save-chunks-per-tick: 24
