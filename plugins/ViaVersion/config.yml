@@ -19,7 +19,7 @@ send-supported-versions: true
 block-versions:
 - <1.19
 # Block specific Minecraft protocol version numbers.
-# List of all Minecraft protocol versions: http://wiki.vg/Protocol_version_numbers, or use a generator: https://via.krusic22.com
+# List of all Minecraft protocol versions: https://wiki.vg/Protocol_version_numbers, or use a generator: https://via.krusic22.com
 block-protocols: []
 # Change the blocked disconnect message
 block-disconnect-msg: You are using an unsupported Minecraft version!

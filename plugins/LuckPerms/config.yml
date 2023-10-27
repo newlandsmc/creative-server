@@ -392,6 +392,7 @@ auto-install-translations: true
 meta-formatting:
   prefix:
     format:
+      - "highest_on_track_founder"
       - "highest"
       - "highest_on_track_prestige"
     duplicates: first-only

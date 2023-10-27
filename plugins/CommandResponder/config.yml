@@ -22,3 +22,15 @@ crates:
 spoils:
   enabled: true
   message: "<red>This command must be ran in the Survival world!"
+discord:
+  enabled: true
+  message: "<red>This command can only be used in the Survival world!"
+discord link:
+  enabled: true
+  message: "<red>This command can only be used in the Survival world!"
+discord help:
+  enabled: true
+  message: "<red>This command can only be used in the Survival world!"
+discord ?:
+  enabled: true
+  message: "<red>This command can only be used in the Survival world!"

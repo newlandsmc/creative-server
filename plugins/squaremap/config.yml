@@ -89,8 +89,8 @@ world-settings:
                 show-armor: false
                 show-health: false
             hide:
-                invisible: true
-                spectators: true
+                invisible: false
+                spectators: false
             use-display-names: false
     minecraft:the_nether:
         map:

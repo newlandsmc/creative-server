@@ -318,3 +318,49 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ AldizGamez was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -170.42693980902942
+ - Y: 65.15814676123665
+ - Z: -371.7521667510758
+
+Information:
+ - UUID: 96c3aace-784f-4ff1-9854-8fb0370a283a
+ - Keep Alive Ping: 151
+ - Transaction Ping: 141
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: CREATIVE
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 140.4 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 4
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 74
+ - Since Riptide Ticks: 2018
+ - Flying Delay: 41
+ - Since Velocity Ticks: 2808
+ - Since Firework Ticks: 2018
+ - Ticks Existed: 2708
+ - Since Vehicle Ticks: 74
+ - Since Liquid Ticks: 1034
+ - Queued Transactions: 1
+ - Joined: 241 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftMinecartRideable]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

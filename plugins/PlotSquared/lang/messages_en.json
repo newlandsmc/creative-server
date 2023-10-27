@@ -124,7 +124,7 @@
   "economy.cannot_afford_merge": "<prefix><red>You cannot afford to merge the plots. It costs <gold><money></gold>.</red>",
   "economy.added_balance": "<prefix><gold><money> </gold><gray>has been added to your balance.</gray>",
   "economy.removed_balance": "<prefix><gold><money> </gold><gray>has been taken from your balance.</gray>",
-  "economy.removed_granted_plot": "<prefix><gray>You used <usedGrants> plot grant(s), you've got </gray><gold><remainingGrants></gold> <gray>left.</gray>",
+  "economy.removed_granted_plot": "<prefix><gray>You used <used_grants> plot grant(s), you've got </gray><gold><remaining_grants></gold> <gray>left.</gray>",
   "setup.choose_generator": "<gold>What generator do you want?</gold>",
   "setup.setup_not_started": "<prefix><gold>No setup started.</gold>",
   "setup.setup_init": "<prefix><gold>Usage: </gold><gray>/plot setup <value></gray>",
@@ -722,5 +722,8 @@
   "flags.flag_description_beacon_effect": "<gray>Enables beacon effects on the plot.</gray>",
   "kick.player_not_in_plot": "<prefix><red>The player <gray><player></gray> is not on this plot.</red>",
   "kick.cannot_kick_player": "<prefix><red>You cannot kick the player <gray><player></gray>.</red>",
-  "flags.flag_description_sculk_sensor_interact": "<gray>Set to `true` to allow guests to interact with sculk sensors.</gray>"
+  "flags.flag_description_sculk_sensor_interact": "<gray>Set to `true` to allow guests to interact with sculk sensors.</gray>",
+  "flags.flag_description_concrete_harden": "<gray>Set to `false` to disable concrete powder forming to concrete with water.</gray>",
+  "flags.delaying_loading_area_flags": "<prefix><gray>Delaying loading flags for area `</gray><dark_aqua><area></dark_aqua><gray>` as WorldEdit is not initialised yet.</gray>",
+  "flags.loading_area_flags": "<prefix><gray>Loading flags for area: </gray><dark_aqua><area></dark_aqua>"
 }

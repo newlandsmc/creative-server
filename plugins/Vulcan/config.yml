@@ -209,15 +209,6 @@ judgement-days:
 freeze:
   # A customizable list of commands that will be executed when a player logs out while frozen
   logged-out-while-frozen-commands: []
-join-message:
-  # Whether or not the join message is enabled
-  enabled: false
-  # The message that will be sent when a player joins the server.
-  message:
-  - ''
-  - '&4&lWARNING &cButterfly clicking is strongly discouraged and may result in a
-    ban!'
-  - ''
 gui:
   # Title of the main menu in /vulcan gui. Doesn't support color codes. /vulcan reload won't reload this value
   # since it's only initialized onEnable.
@@ -488,34 +479,7 @@ settings:
   entity-cram-fix-enabled: false
   entity-cram-entities-amount: 10
   entity-cram-exempt-ticks: 30
-hooks:
-  # #####################################################################################################################
-  # Discord BOT Configuration                                                                                              #
-  # enable-hook: Enable/Disable discord BOT support. You must have DiscordBotAPI installed.                                #
-  # Requires https://www.spigotmc.org/resources/discordbotapi.86518/                                                   #
-  # #####################################################################################################################
-  discord:
-    enable-hook: false
-    alerts-channel-id: channel_id_here
-    punishment-channel-id: channel_id_here
-    command-prefix: '!vulcan'
-    alerts-format:
-      color: ORANGE
-      title: Vulcan Alert
-      description: '%player% failed %check% (Type: %type%) (VL:%vl%)'
-      image: https://crafatar.com/avatars/%uuid%
-      content:
-      - Info|%info%|false
-      - Location|%world% - X:%x%, Y:%y%, Z:%z%|false
-      - Client Version|%client-version%|false
-      - Client Brand|%client-brand%|false
-      - Client Ping|%ping%|false
-      - Server TPS|%tps%|false
-    punishment-format:
-      color: RED
-      title: Vulcan Punishment
-      description: '%player% was punished for  %check% (Type: %type%) (VL:%vl%)'
-      image: https://crafatar.com/avatars/%uuid%
+  lenient-elytra-handling: true
 discord-webhook:
   # The section for the Discord Webhook alerts
   alerts:
@@ -2578,6 +2542,24 @@ checks:
           max: 4
           multiple: 0.25
           decay: 0.1
+      n:
+        enabled: false
+        punishable: false
+        discord-alert-interval: 1
+        setback: false
+        min-vl-to-setback: 1
+        broadcast-punishment: false
+        max-violations: 20
+        alert-interval: 1
+        dont-alert-until: 2
+        maximum-ping: 100000
+        minimum-tps: 19.0
+        punishment-commands:
+        - kick %player% &c[Vulcan] Unfair Advantage
+        buffer:
+          max: 3
+          multiple: 0.25
+          decay: 0.045
     speed:
       a:
         enabled: true
@@ -2920,7 +2902,6 @@ checks:
         minimum-tps: 19.0
         punishment-commands:
         - 'kick %player% Internal Exception: io.netty.handler.timeout.ReadTimeoutException'
-    #        - 'warn -s %player% Hacked client detected.'
     sprint:
       a:
         enabled: true
