@@ -2372,12 +2372,12 @@ checks:
         minimum-tps: 19.0
         punishment-commands:
         - 'kick %player% Internal Exception: io.netty.handler.timeout.ReadTimeoutException'
-        #        - 'warn -s %player% Hacked client detected.'
         buffer:
           max: 5
           multiple: 0.5
           decay: 0.25
         kick-out: false
+        min-difference: 0.01
     elytra:
       a:
         enabled: true

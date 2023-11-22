@@ -56,6 +56,7 @@ worlds:
       min_gen_height: -64
       min_height: -63
       border: false
+      border_size: 1
     event:
       spawn:
         egg: true
